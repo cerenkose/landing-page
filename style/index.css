@@ -1,0 +1,288 @@
+.bircontainer{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  height: 804px;
+  box-sizing: border-box;
+  background-color:  #000000;
+}
+.bircontainer .genel{
+
+  width: 1280px;
+  box-sizing: border-box;
+
+
+}
+.baslikk h1{
+  color: #FFFFFF;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 115px;
+  line-height: 104%;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.yazi{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 703px;
+  height: 88px;
+}
+.genel h2{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+align-items: center;
+display: flex;
+padding-top: 59px;
+box-sizing: border-box;
+justify-content: flex-start;
+}
+.ikicontainer{
+  display: flex;
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  height: 736px;
+  background-color: #D9D9D9;
+  flex-wrap: nowrap;
+}
+.ikigenel{
+  
+  padding-top: 72px;
+
+  box-sizing: border-box;
+  text-align: center;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+
+div.baslik2{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 104%;
+flex-wrap: nowrap;
+color: #0F1828;
+}
+
+
+.yazilar{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.yazilar .ce{  
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 44px;
+display: flex;
+flex-wrap: wrap;
+color: #0F1828;
+margin-left: 70px;
+margin-top: 30px;
+width: 100%;
+
+}
+/* ???? */
+
+
+
+.kapsayici{
+  background-color: #f9fafb;
+}
+.ust{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+  flex-wrap: nowrap;
+  box-sizing: border-box;
+
+}
+.baslik h1{
+  color: black;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 109px;
+display: flex;
+padding: 0;
+margin: 0;
+align-items: center;
+letter-spacing: -0.02em;
+}
+
+.alt{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+.alt .sol{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.alt .sol div{
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 44px;
+display: flex;
+align-items: center;
+margin-top: 40px;
+margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.our-team {
+  font-family: "Open Sans";
+  width: 100%;
+  background-color: #f4f4f4;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  box-sizing: border-box;
+}
+
+.our-team .our-team-container {
+  width: 1280px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.our-team .title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #1c2939;
+  text-align: center;
+}
+
+.our-team .description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0;
+}
+
+.our-team-members {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 70px;
+}
+
+.member-box {
+  background-color: #f9fafb;
+  padding: 24px;
+  margin-left: 32px;
+  width: 280px;
+  margin-bottom: 64px;
+  box-sizing: border-box;
+}
+
+.member-box-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  background-color: #c7b9da;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+.member-box-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.member-box-position {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #6941c6;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.member-box-description {
+  margin-top: 8px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #667085;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.member-box-social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+  margin-top: 16px;
+  box-sizing: border-box;
+}
+
+.member-box-social-icons img:first-child {
+  margin-right: 16px;
+}
+
+.member-box-social-icons img:last-child {
+  margin-left: 16px;
+}
